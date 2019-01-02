@@ -1,0 +1,3 @@
+[submodule "RealEstateMapApi"]
+	path = RealEstateMapApi
+	url = https://github.com/jdcohen220/RealEstateMapApi.git
